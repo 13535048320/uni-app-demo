@@ -2,14 +2,201 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="debb6193-af11-4039-83d0-70279a66d0a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappchooselocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappes6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappmarker@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappnvuecompiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappopenlocation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniapppicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappscan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappsuccess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniapptabbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/__uniappview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/app-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/app-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/app-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/hybrid/html/local.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/action-sheet/action-sheet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/add-phone-contact/add-phone-contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/animation/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/background-audio/background-audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/bluetooth/bluetooth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/brightness/brightness.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/canvas/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/choose-location/choose-location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/clipboard/clipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/download-file/download-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/file/file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/fingerprint/fingerprint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/get-location/get-location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/get-network-type/get-network-type.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/get-node-info/get-node-info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/get-system-info/get-system-info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/get-user-info/get-user-info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/ibeacon/ibeacon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/intersection-observer/intersection-observer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/make-phone-call/make-phone-call.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/modal/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/navigator/navigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/navigator/new-page/new-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/on-accelerometer-change/on-accelerometer-change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/on-compass-change/on-compass-change.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/open-location/open-location.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/pull-down-refresh/pull-down-refresh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/request-payment/request-payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/request/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/save-media/save-media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/scan-code/scan-code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/set-navigation-bar-title/set-navigation-bar-title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/share/share.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/show-loading/show-loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/sqlite/sqlite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/storage/storage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/subnvue/subnvue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/subnvue/subnvue/drawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/subnvue/subnvue/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/subnvue/subnvue/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/subnvue/subnvue/video-mask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/toast/toast.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/upload-file/upload-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/vibrate/vibrate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/voice/voice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/audio/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/button/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/canvas/canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/checkbox/checkbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/cover-view/cover-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/editor/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/form/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/input/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/label/label.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/map/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/movable-view/movable-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/navigator/navigate/navigate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/navigator/navigator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/navigator/redirect/redirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/picker-view/picker-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/picker/picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/progress/progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/radio/radio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/rich-text/rich-text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/scroll-view/scroll-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/slider/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/swiper/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/switch/switch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/text/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/textarea/textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/view/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/web-view-local/web-view-local.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/component/web-view/web-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/badge/badge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/card/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/collapse/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/count-down/count-down.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/drawer/drawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/fab/fab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/grid/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/icon/icon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/indexed-list/indexed-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/list/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/load-more/load-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/nav-bar/nav-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/notice-bar/notice-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/number-box/number-box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/pagination/pagination.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/popup/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/rate/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/segmented-control/segmented-control.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/steps/steps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/swipe-action/swipe-action.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/swiper-dot/swiper-dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/extUI/tag/tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/tabBar/API/API.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/tabBar/component/component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/tabBar/extUI/extUI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/tabBar/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/comments/comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/datachecker/datachecker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/gesture-lock/gesture-lock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/im-chat/im-chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/lazy-load-custom/lazy-load-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/lazy-load/lazy-load.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/left-category/left-category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/list-triplex-row/list-triplex-row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/list2detail-detail/list2detail-detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/list2detail-list/list2detail-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/media-list/media-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/mpvue-picker/mpvue-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-button/nav-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-city-dropdown/nav-city-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-default/nav-default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-dot/nav-dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-image/nav-image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-search-input/detail/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-search-input/nav-search-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/nav-transparent/nav-transparent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/product-list/product-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/scheme/scheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/scrollmsg/scrollmsg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/tabbar/detail/detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/tabbar/tabbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/timeline/timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/ucharts/ucharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/uparse-html/uparse-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/uparse-md/uparse-md.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/template/vant-button/vant-button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/feedback/feedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/orientation/orientation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/proximity/proximity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/push/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/shake/shake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/platforms/app-plus/speech/speech.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/api.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/apiHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/apiIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/app-plus/location@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/app-plus/uni@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/compass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/component.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/componentHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/componentIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/extui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/extuiHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/extuiIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/record.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/shuijiao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/templateHL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/templateIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/uni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/static/uni.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +256,18 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
               <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/file/file.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -159,6 +351,48 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBuilder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBuilder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBuilder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBuilder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBuilder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBuilder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBuilder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBuilder" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -271,7 +505,7 @@
     <frame x="216" y="116" width="1287" height="834" extended-state="0" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26324368" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.26324368" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -282,9 +516,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Logcat" order="1" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4995925" weight="0.32952926" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.4995925" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5004075" side_tool="true" weight="0.32952926" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.32714286" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32714286" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -348,6 +582,9 @@
           <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/apps/__UNI__7C9116F/www/pages/API/file/file.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
