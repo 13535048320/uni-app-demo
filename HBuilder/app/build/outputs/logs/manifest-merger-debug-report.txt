@@ -1,0 +1,1467 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+MERGED from [amap-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\amap-libs-release.aar\7381df68fd33f05e91cbae5cd0b28017\AndroidManifest.xml:2:1-11:12
+MERGED from [aps-dhPush-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-dhPush-release.aar\0cea050baa9abbacfeff1a95656f8990\AndroidManifest.xml:2:1-11:12
+MERGED from [aps-igexin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-igexin-release.aar\67355fe3d9b06bd9c8396111009f13b3\AndroidManifest.xml:2:1-11:12
+MERGED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:2:1-15:12
+MERGED from [aps-xiaomi-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-xiaomi-release.aar\0bc47ac5ef01284162968560486ce828\AndroidManifest.xml:2:1-11:12
+MERGED from [audio-mp3aac-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\audio-mp3aac-release.aar\e3c6ca0e34b61e56147f96eebde1b8f6\AndroidManifest.xml:2:1-9:12
+MERGED from [baidu-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\baidu-libs-release.aar\e00dc380bccf409b3ff75e8fd9087b38\AndroidManifest.xml:2:1-10:12
+MERGED from [Bluetooth-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\Bluetooth-release.aar\be48f4385c316427690103167a1ab585\AndroidManifest.xml:2:1-11:12
+MERGED from [contacts-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\contacts-release.aar\bd1d93a801dade4d688252ffb293ec50\AndroidManifest.xml:2:1-11:12
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:2:1-13:12
+MERGED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:2:1-22:12
+MERGED from [geolocation-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-amap-release.aar\c0406e53f137957f3aeeea85628b4e01\AndroidManifest.xml:2:1-11:12
+MERGED from [geolocation-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-baidu-release.aar\4b3242e31f52aca72a696a43ff068ba6\AndroidManifest.xml:2:1-11:12
+MERGED from [iBeacon-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\iBeacon-release.aar\ccfd4d313cd69ea73b9fade50e95b823\AndroidManifest.xml:2:1-11:12
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:2:1-237:12
+MERGED from [map-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-amap-release.aar\2de7e15e526f39ef92c0d4ca7db1661a\AndroidManifest.xml:2:1-12:12
+MERGED from [map-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-baidu-release.aar\a29cbfc19f5f4ebfa6480ff333a919b0\AndroidManifest.xml:2:1-12:12
+MERGED from [media-livepusher-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-livepusher-release.aar\a04bbe125bb870dedfa36a1e28dd9131\AndroidManifest.xml:2:1-11:12
+MERGED from [media-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-release.aar\43ba40815e319e988bfb311a8db5511b\AndroidManifest.xml:2:1-11:12
+MERGED from [messaging-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\messaging-release.aar\4fa43947931988daa4dfff861b20c26e\AndroidManifest.xml:2:1-11:12
+MERGED from [oauth-miui-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-miui-release.aar\7f723f5a0c9856342e08bda8e8844fb3\AndroidManifest.xml:2:1-11:12
+MERGED from [oauth-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-qq-release.aar\2ec754a67a26bf1d08e460a1399ae54c\AndroidManifest.xml:2:1-11:12
+MERGED from [oauth-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-sina-release.aar\156c24252a84c7368e4723408af0d709\AndroidManifest.xml:2:1-11:12
+MERGED from [oauth-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-weixin-release.aar\fa29deffa8aee2179a48a1b6979f4959\AndroidManifest.xml:2:1-11:12
+MERGED from [payment-alipay-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-alipay-release.aar\4bd9e5a40ad47efeabc5cf97ac50048b\AndroidManifest.xml:2:1-11:12
+MERGED from [payment-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-weixin-release.aar\7eb66c028d0cbe54d47cd18ebfadc9a8\AndroidManifest.xml:2:1-11:12
+MERGED from [share-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-qq-release.aar\8b5dde11e5b875a57915f50c4ff3547a\AndroidManifest.xml:2:1-11:12
+MERGED from [share-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-sina-release.aar\fea77668ae3d6fbfdb9a605f9e1863b1\AndroidManifest.xml:2:1-11:12
+MERGED from [share-tencent-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2\AndroidManifest.xml:2:1-11:12
+MERGED from [share-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-weixin-release.aar\a12ce6d8ac1ceab6c93942029543a7e5\AndroidManifest.xml:2:1-11:12
+MERGED from [sina-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sina-libs-release.aar\5121530a48512cdd8c331528aa383773\AndroidManifest.xml:2:1-11:12
+MERGED from [speech-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech-release.aar\a234f6005fc75d6927d2c435864e0fca\AndroidManifest.xml:2:1-9:12
+MERGED from [speech_baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_baidu-release.aar\3092f159f68db300342af775b41bc391\AndroidManifest.xml:2:1-11:12
+MERGED from [speech_ifly-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_ifly-release.aar\1a33649194bf9eb2ccb9f56df364b905\AndroidManifest.xml:2:1-12:12
+MERGED from [sqlite-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sqlite-release.aar\854cb2aec1571252cd35189a89fb8456\AndroidManifest.xml:2:1-9:12
+MERGED from [statistics-umeng-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\statistics-umeng-release.aar\3892eacb57ae3850164fb42ac78f71d0\AndroidManifest.xml:2:1-11:12
+MERGED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:20:1-37:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f480382cc635b85ba7dcbd7bd26b7c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e19e84a52224e0c7d81e4e79a3e61467\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:17:1-28:12
+MERGED from [com.alibaba.android:bindingx-core:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx-core-1.0.3.aar\7247b506f59ebb7968150791ab1abc4f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fresco-1.13.0.aar\d78ed582e11f32db9daaf16cd66e9a1b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-gif-1.13.0.aar\b6b370c8ec5233825412b7ec7f34bf1e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\1fa47afcfd3137b9de0ed96ce0de6c02\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\9cf1c5a1e772db7f8751b23d4e03eb4d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f7469b3add2a0981cfa9c9c993d940cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c9374ed809fc988a919d861f2dd9e45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a38b3107da6a9c6406ab55c5fd2ad67\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\202eaddb12bbd841e9373ca8a9072f41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\620df50c680b8c7ef1606bdb8ca71a46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2ea55bec8ad60cd99940ae8fba3fff9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-base-1.13.0.aar\be60bd6c4229937aa84e114d06ba8b47\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.13.0.aar\f1c23b6240310af72c1ec215c690da16\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\drawee-1.13.0.aar\d4d3fd226cb9e5c5f17df005c58650ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-1.13.0.aar\67d3aa127376aa661dddf2f7492ed197\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.13.0.aar\386ecb0b9cf5212ea1090f9a145e6ab3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-1.13.0.aar\e2e2afc2c288b5a18d23522f5e13c364\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.13.0.aar\91acc0ab34a1d62544910a29ee807f72\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fbcore-1.13.0.aar\a56e7750f05432183ee7016342cc0ef9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ee37e24bd58fdc91b95397db02991426\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\617cdfe91629d6cc7b81ca769544d10b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d7589ab42d96c9220b146cb3ddda561\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca7dcccaf3a340de66c1ad17bbc9937d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f4f9fe3d8ca71f11f432b973fb75bf5\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+	package
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:4:5-33
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:8:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:16:5-81
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.camera
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:11:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:12:22-66
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:15:5-73
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:9:5-74
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:15:22-71
+uses-permission#android.permission.INTERNET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:17:5-67
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:24:5-79
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:18:5-79
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:25:5-76
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:25:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:27:5-84
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:27:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:64:5-68
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:64:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:65:5-81
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:65:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:68:5-76
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:68:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:69:5-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:69:22-66
+uses-permission#getui.permission.GetuiService.com.HBuilder.integrate
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:70:5-92
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:70:22-89
+permission#getui.permission.GetuiService.com.HBuilder.integrate
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:72:5-74:44
+	android:protectionLevel
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:74:9-41
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:73:9-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:89:5-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:89:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:91:5-80
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:91:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:99:5-71
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:99:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:102:5-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:102:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:111:5-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:111:22-76
+uses-permission#com.xiaomi.permission.AUTH_SERVICE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:115:5-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:115:22-71
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:120:5-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:120:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:121:5-68
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:121:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:124:5-68
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:124:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:126:5-72
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:126:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:129:5-73
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:129:22-70
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:131:5-71
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:131:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:133:5-67
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:133:22-64
+uses-permission#android.permission.WRITE_SMS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:137:5-68
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:137:22-65
+uses-permission#android.permission.READ_SMS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:138:5-67
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:138:22-64
+application
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:140:5-504:19
+MERGED from [amap-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\amap-libs-release.aar\7381df68fd33f05e91cbae5cd0b28017\AndroidManifest.xml:9:5-20
+MERGED from [amap-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\amap-libs-release.aar\7381df68fd33f05e91cbae5cd0b28017\AndroidManifest.xml:9:5-20
+MERGED from [aps-dhPush-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-dhPush-release.aar\0cea050baa9abbacfeff1a95656f8990\AndroidManifest.xml:9:5-20
+MERGED from [aps-dhPush-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-dhPush-release.aar\0cea050baa9abbacfeff1a95656f8990\AndroidManifest.xml:9:5-20
+MERGED from [aps-igexin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-igexin-release.aar\67355fe3d9b06bd9c8396111009f13b3\AndroidManifest.xml:9:5-20
+MERGED from [aps-igexin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-igexin-release.aar\67355fe3d9b06bd9c8396111009f13b3\AndroidManifest.xml:9:5-20
+MERGED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:9:5-13:19
+MERGED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:9:5-13:19
+MERGED from [aps-xiaomi-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-xiaomi-release.aar\0bc47ac5ef01284162968560486ce828\AndroidManifest.xml:9:5-20
+MERGED from [aps-xiaomi-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-xiaomi-release.aar\0bc47ac5ef01284162968560486ce828\AndroidManifest.xml:9:5-20
+MERGED from [audio-mp3aac-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\audio-mp3aac-release.aar\e3c6ca0e34b61e56147f96eebde1b8f6\AndroidManifest.xml:7:5-20
+MERGED from [audio-mp3aac-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\audio-mp3aac-release.aar\e3c6ca0e34b61e56147f96eebde1b8f6\AndroidManifest.xml:7:5-20
+MERGED from [baidu-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\baidu-libs-release.aar\e00dc380bccf409b3ff75e8fd9087b38\AndroidManifest.xml:8:5-20
+MERGED from [baidu-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\baidu-libs-release.aar\e00dc380bccf409b3ff75e8fd9087b38\AndroidManifest.xml:8:5-20
+MERGED from [Bluetooth-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\Bluetooth-release.aar\be48f4385c316427690103167a1ab585\AndroidManifest.xml:9:5-20
+MERGED from [Bluetooth-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\Bluetooth-release.aar\be48f4385c316427690103167a1ab585\AndroidManifest.xml:9:5-20
+MERGED from [contacts-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\contacts-release.aar\bd1d93a801dade4d688252ffb293ec50\AndroidManifest.xml:9:5-20
+MERGED from [contacts-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\contacts-release.aar\bd1d93a801dade4d688252ffb293ec50\AndroidManifest.xml:9:5-20
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:11:5-20
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:11:5-20
+MERGED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:9:5-20:19
+MERGED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:9:5-20:19
+MERGED from [geolocation-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-amap-release.aar\c0406e53f137957f3aeeea85628b4e01\AndroidManifest.xml:9:5-20
+MERGED from [geolocation-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-amap-release.aar\c0406e53f137957f3aeeea85628b4e01\AndroidManifest.xml:9:5-20
+MERGED from [geolocation-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-baidu-release.aar\4b3242e31f52aca72a696a43ff068ba6\AndroidManifest.xml:9:5-20
+MERGED from [geolocation-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-baidu-release.aar\4b3242e31f52aca72a696a43ff068ba6\AndroidManifest.xml:9:5-20
+MERGED from [iBeacon-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\iBeacon-release.aar\ccfd4d313cd69ea73b9fade50e95b823\AndroidManifest.xml:9:5-20
+MERGED from [iBeacon-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\iBeacon-release.aar\ccfd4d313cd69ea73b9fade50e95b823\AndroidManifest.xml:9:5-20
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:58:5-235:19
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:58:5-235:19
+MERGED from [map-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-amap-release.aar\2de7e15e526f39ef92c0d4ca7db1661a\AndroidManifest.xml:9:5-10:19
+MERGED from [map-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-amap-release.aar\2de7e15e526f39ef92c0d4ca7db1661a\AndroidManifest.xml:9:5-10:19
+MERGED from [map-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-baidu-release.aar\a29cbfc19f5f4ebfa6480ff333a919b0\AndroidManifest.xml:9:5-10:19
+MERGED from [map-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-baidu-release.aar\a29cbfc19f5f4ebfa6480ff333a919b0\AndroidManifest.xml:9:5-10:19
+MERGED from [media-livepusher-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-livepusher-release.aar\a04bbe125bb870dedfa36a1e28dd9131\AndroidManifest.xml:9:5-20
+MERGED from [media-livepusher-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-livepusher-release.aar\a04bbe125bb870dedfa36a1e28dd9131\AndroidManifest.xml:9:5-20
+MERGED from [media-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-release.aar\43ba40815e319e988bfb311a8db5511b\AndroidManifest.xml:9:5-20
+MERGED from [media-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-release.aar\43ba40815e319e988bfb311a8db5511b\AndroidManifest.xml:9:5-20
+MERGED from [messaging-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\messaging-release.aar\4fa43947931988daa4dfff861b20c26e\AndroidManifest.xml:9:5-20
+MERGED from [messaging-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\messaging-release.aar\4fa43947931988daa4dfff861b20c26e\AndroidManifest.xml:9:5-20
+MERGED from [oauth-miui-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-miui-release.aar\7f723f5a0c9856342e08bda8e8844fb3\AndroidManifest.xml:9:5-20
+MERGED from [oauth-miui-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-miui-release.aar\7f723f5a0c9856342e08bda8e8844fb3\AndroidManifest.xml:9:5-20
+MERGED from [oauth-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-qq-release.aar\2ec754a67a26bf1d08e460a1399ae54c\AndroidManifest.xml:9:5-20
+MERGED from [oauth-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-qq-release.aar\2ec754a67a26bf1d08e460a1399ae54c\AndroidManifest.xml:9:5-20
+MERGED from [oauth-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-sina-release.aar\156c24252a84c7368e4723408af0d709\AndroidManifest.xml:9:5-20
+MERGED from [oauth-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-sina-release.aar\156c24252a84c7368e4723408af0d709\AndroidManifest.xml:9:5-20
+MERGED from [oauth-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-weixin-release.aar\fa29deffa8aee2179a48a1b6979f4959\AndroidManifest.xml:9:5-20
+MERGED from [oauth-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-weixin-release.aar\fa29deffa8aee2179a48a1b6979f4959\AndroidManifest.xml:9:5-20
+MERGED from [payment-alipay-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-alipay-release.aar\4bd9e5a40ad47efeabc5cf97ac50048b\AndroidManifest.xml:9:5-20
+MERGED from [payment-alipay-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-alipay-release.aar\4bd9e5a40ad47efeabc5cf97ac50048b\AndroidManifest.xml:9:5-20
+MERGED from [payment-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-weixin-release.aar\7eb66c028d0cbe54d47cd18ebfadc9a8\AndroidManifest.xml:9:5-20
+MERGED from [payment-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-weixin-release.aar\7eb66c028d0cbe54d47cd18ebfadc9a8\AndroidManifest.xml:9:5-20
+MERGED from [share-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-qq-release.aar\8b5dde11e5b875a57915f50c4ff3547a\AndroidManifest.xml:9:5-20
+MERGED from [share-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-qq-release.aar\8b5dde11e5b875a57915f50c4ff3547a\AndroidManifest.xml:9:5-20
+MERGED from [share-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-sina-release.aar\fea77668ae3d6fbfdb9a605f9e1863b1\AndroidManifest.xml:9:5-20
+MERGED from [share-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-sina-release.aar\fea77668ae3d6fbfdb9a605f9e1863b1\AndroidManifest.xml:9:5-20
+MERGED from [share-tencent-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2\AndroidManifest.xml:9:5-20
+MERGED from [share-tencent-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2\AndroidManifest.xml:9:5-20
+MERGED from [share-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-weixin-release.aar\a12ce6d8ac1ceab6c93942029543a7e5\AndroidManifest.xml:9:5-20
+MERGED from [share-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-weixin-release.aar\a12ce6d8ac1ceab6c93942029543a7e5\AndroidManifest.xml:9:5-20
+MERGED from [sina-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sina-libs-release.aar\5121530a48512cdd8c331528aa383773\AndroidManifest.xml:9:5-20
+MERGED from [sina-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sina-libs-release.aar\5121530a48512cdd8c331528aa383773\AndroidManifest.xml:9:5-20
+MERGED from [speech-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech-release.aar\a234f6005fc75d6927d2c435864e0fca\AndroidManifest.xml:7:5-20
+MERGED from [speech-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech-release.aar\a234f6005fc75d6927d2c435864e0fca\AndroidManifest.xml:7:5-20
+MERGED from [speech_baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_baidu-release.aar\3092f159f68db300342af775b41bc391\AndroidManifest.xml:9:5-20
+MERGED from [speech_baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_baidu-release.aar\3092f159f68db300342af775b41bc391\AndroidManifest.xml:9:5-20
+MERGED from [speech_ifly-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_ifly-release.aar\1a33649194bf9eb2ccb9f56df364b905\AndroidManifest.xml:9:5-10:19
+MERGED from [speech_ifly-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_ifly-release.aar\1a33649194bf9eb2ccb9f56df364b905\AndroidManifest.xml:9:5-10:19
+MERGED from [statistics-umeng-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\statistics-umeng-release.aar\3892eacb57ae3850164fb42ac78f71d0\AndroidManifest.xml:9:5-20
+MERGED from [statistics-umeng-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\statistics-umeng-release.aar\3892eacb57ae3850164fb42ac78f71d0\AndroidManifest.xml:9:5-20
+MERGED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:29:5-35:19
+MERGED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:29:5-35:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e19e84a52224e0c7d81e4e79a3e61467\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e19e84a52224e0c7d81e4e79a3e61467\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:22:5-26:19
+MERGED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:9:5-19:19
+MERGED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:9:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\1fa47afcfd3137b9de0ed96ce0de6c02\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\1fa47afcfd3137b9de0ed96ce0de6c02\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\9cf1c5a1e772db7f8751b23d4e03eb4d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\9cf1c5a1e772db7f8751b23d4e03eb4d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ee37e24bd58fdc91b95397db02991426\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ee37e24bd58fdc91b95397db02991426\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:60:9-35
+	android:label
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:144:9-29
+	android:allowClearUserData
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:142:9-42
+	android:debuggable
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:146:9-34
+	android:largeHeap
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:145:9-33
+	android:icon
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:143:9-38
+	android:usesCleartextTraffic
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:61:9-44
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:141:9-63
+activity#io.dcloud.PandoraEntry
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:149:9-162:20
+	android:screenOrientation
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:156:13-45
+	android:label
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:152:13-45
+	android:launchMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:153:13-44
+	android:hardwareAccelerated
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:154:13-47
+	android:windowSoftInputMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:157:13-55
+	android:configChanges
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:151:13-83
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:155:13-52
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:150:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:158:13-161:29
+action#android.intent.action.MAIN
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:159:17-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:159:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:160:17-77
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:160:27-74
+meta-data#UMENG_APPKEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:168:9-170:56
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:170:13-53
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:169:13-40
+meta-data#UMENG_CHANNEL
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:171:9-173:42
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:173:13-39
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:172:13-41
+provider#io.dcloud.common.util.DCloud_FileProvider
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:176:9-184:20
+	android:grantUriPermissions
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:180:13-47
+	android:authorities
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:178:13-69
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:179:13-37
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:177:13-69
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:181:13-183:64
+	android:resource
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:183:17-61
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:182:17-67
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:188:9-190:55
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:190:13-53
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:189:13-52
+service#com.baidu.location.f
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:192:9-195:40
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:195:13-38
+	android:enabled
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:194:13-35
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:193:13-48
+meta-data#QQ_APPID
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:202:9-204:42
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:204:13-39
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:203:13-36
+activity#com.tencent.tauth.AuthActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:206:9-218:20
+	android:launchMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:208:13-44
+	android:noHistory
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:209:13-37
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:207:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:1104455702
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:210:13-217:29
+action#android.intent.action.VIEW
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:211:17-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:211:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:213:17-76
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:213:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:214:17-78
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:214:27-75
+data
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:216:17-53
+	android:scheme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:216:23-50
+activity#com.tencent.connect.common.AssistActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:219:9-222:75
+	android:screenOrientation
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:221:13-49
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:222:13-72
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:220:13-69
+meta-data#IFLY_APPKEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:236:9-238:40
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:238:13-37
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:237:13-39
+meta-data#PUSH_APPID
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:248:9-250:54
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:250:13-51
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:249:13-38
+meta-data#PUSH_APPKEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:251:9-253:54
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:253:13-51
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:252:13-39
+meta-data#PUSH_APPSECRET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:254:9-256:54
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:256:13-51
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:255:13-42
+service#com.igexin.sdk.PushService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:258:9-266:19
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:262:35-65
+	android:label
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:261:13-47
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:260:13-36
+	android:permission
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:262:13-34
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:259:13-54
+intent-filter#action:name:com.igexin.sdk.action.service.message
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:263:13-265:29
+action#com.igexin.sdk.action.service.message
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:264:17-80
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:264:25-77
+receiver#com.igexin.sdk.PushReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:268:9-278:20
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:268:19-61
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MEDIA_MOUNTED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:com.igexin.sdk.action.refreshls
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:269:13-277:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:270:17-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:270:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:271:17-79
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:271:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:272:17-77
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:272:25-74
+action#com.igexin.sdk.action.refreshls
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:273:17-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:273:25-71
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:274:17-78
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:274:25-75
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:275:17-87
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:275:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:276:17-90
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:276:25-87
+activity#com.igexin.sdk.PushActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:280:9-286:75
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:284:13-43
+	android:excludeFromRecents
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:282:13-46
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:283:13-37
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:286:13-72
+	android:taskAffinity
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:285:13-67
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:281:13-55
+activity#com.igexin.sdk.GActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:287:9-293:75
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:291:13-43
+	android:excludeFromRecents
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:289:13-46
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:290:13-36
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:293:13-72
+	android:taskAffinity
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:292:13-67
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:288:13-52
+receiver#io.dcloud.feature.apsGt.GTNotificationReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:295:9-303:20
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:295:19-80
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:io.dcloud.HBuilder.__CLEAR_NOTIFICATION+action:name:io.dcloud.HBuilder.__CLILK_NOTIFICATION+action:name:io.dcloud.HBuilder.__CREATE_NOTIFICATION+action:name:io.dcloud.HBuilder.__REMOVE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:296:13-302:29
+action#io.dcloud.HBuilder.__CREATE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:298:17-83
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:298:25-80
+action#io.dcloud.HBuilder.__REMOVE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:299:17-83
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:299:25-80
+action#io.dcloud.HBuilder.__CLEAR_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:300:17-82
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:300:25-79
+action#io.dcloud.HBuilder.__CLILK_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:301:17-82
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:301:25-79
+service#io.dcloud.feature.apsGt.GTNormalIntentService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:304:9-305:75
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:305:13-73
+service#io.dcloud.feature.apsGt.GTNormalPushService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:306:9-310:76
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:310:35-65
+	android:label
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:309:13-40
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:308:13-36
+	android:permission
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:310:13-34
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:307:13-71
+meta-data#SINA_REDIRECT_URI
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:318:9-320:53
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:320:13-50
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:319:13-45
+meta-data#SINA_SECRET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:321:9-323:64
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:323:13-61
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:322:13-39
+meta-data#SINA_APPKEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:324:9-326:43
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:326:13-40
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:325:13-39
+activity#com.sina.weibo.sdk.web.WeiboSdkWebActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:328:9-332:67
+	android:windowSoftInputMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:332:13-55
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:331:13-37
+	android:configChanges
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:330:13-63
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:329:13-70
+activity#com.sina.weibo.sdk.share.WbShareTransActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:333:9-342:20
+	android:launchMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:335:13-44
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:336:13-83
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:334:13-73
+intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:337:13-341:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:338:17-92
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:338:25-89
+meta-data#TENCENT_REDIRECT_URI
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:348:9-350:53
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:350:13-50
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:349:13-48
+meta-data#TENCENT_SECRET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:351:9-353:53
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:353:13-50
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:352:13-42
+meta-data#TENCENT_APPKEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:354:9-356:65
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:356:13-62
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:355:13-42
+activity#io.dcloud.share.tencent.WebAuthorize
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:358:9-360:72
+	android:theme
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:360:13-60
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:359:13-64
+meta-data#WX_SECRET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:362:9-364:64
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:364:13-61
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:363:13-37
+meta-data#WX_APPID
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:365:9-367:50
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:367:13-47
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:366:13-36
+activity#io.dcloud.HBuilder.wxapi.WXEntryActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:369:9-381:20
+	android:label
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:372:13-45
+	android:launchMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:373:13-43
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:371:13-36
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:370:13-50
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:scheme:wx0411fa6a39d61297
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:374:13-380:29
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:386:9-391:79
+	android:screenOrientation
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:390:13-47
+	android:windowSoftInputMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:391:13-67
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:389:13-37
+	android:configChanges
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:388:13-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:387:13-60
+activity#com.alipay.sdk.auth.AuthActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:392:9-396:59
+	android:screenOrientation
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:396:13-47
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:395:13-37
+	android:configChanges
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:394:13-74
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:393:13-60
+activity#io.dcloud.HBuilder.wxapi.WXPayEntryActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:401:9-404:46
+	android:launchMode
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:404:13-43
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:403:13-36
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:402:13-53
+meta-data#MIUI_APPID
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:412:9-414:45
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:414:13-42
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:413:13-38
+meta-data#MIUI_APPSECRET
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:415:9-417:48
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:417:13-45
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:416:13-42
+meta-data#MIUI_REDIRECT_URI
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:418:9-420:43
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:420:13-40
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:419:13-45
+activity#com.xiaomi.account.openauth.AuthorizeActivity
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:422:9-82
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:422:19-79
+service#com.xiaomi.push.service.XMPushService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:433:9-436:46
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:436:13-43
+	android:enabled
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:435:13-35
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:434:13-65
+service#com.xiaomi.push.service.XMJobService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:437:9-442:46
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:442:13-43
+	android:enabled
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:439:13-35
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:440:13-37
+	android:permission
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:441:13-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:438:13-64
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:443:9-446:39
+	android:enabled
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:445:13-35
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:446:13-36
+	android:permission
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:444:69-90
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:444:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:447:9-449:38
+	android:enabled
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:449:13-35
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:448:13-70
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:451:9-459:20
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:453:13-36
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:452:13-83
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:454:13-458:29
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:460:9-467:20
+	android:process
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:463:13-43
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:462:13-37
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:461:13-74
+intent-filter#action:name:com.xiaomi.push.PING_TIMER
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:464:13-466:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:465:17-69
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:465:25-66
+receiver#io.dcloud.feature.apsXm.XMMessageReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:468:9-480:20
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:470:13-36
+	android:permission
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:469:70-91
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:469:13-69
+intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:471:13-473:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:472:17-76
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:472:25-73
+intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:474:13-476:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:475:17-76
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:475:25-73
+intent-filter#action:name:com.xiaomi.mipush.ERROR
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:477:13-479:29
+action#com.xiaomi.mipush.ERROR
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:478:17-66
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:478:25-63
+receiver#io.dcloud.feature.apsXm.XMNotificationReceiver
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:481:9-491:20
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:483:13-36
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:482:13-74
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:com.HBuilder.integrate.__CLEAR_NOTIFICATION+action:name:com.HBuilder.integrate.__CLILK_NOTIFICATION+action:name:com.HBuilder.integrate.__CREATE_NOTIFICATION+action:name:com.HBuilder.integrate.__REMOVE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:484:13-490:29
+action#com.HBuilder.integrate.__CREATE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:486:17-87
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:486:25-84
+action#com.HBuilder.integrate.__REMOVE_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:487:17-87
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:487:25-84
+action#com.HBuilder.integrate.__CLEAR_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:488:17-86
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:488:25-83
+action#com.HBuilder.integrate.__CLILK_NOTIFICATION
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:489:17-86
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:489:25-83
+meta-data#com.baidu.speech.APP_ID
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:499:9-85
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:499:59-83
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:499:20-58
+meta-data#com.baidu.speech.API_KEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:500:9-102
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:500:60-100
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:500:20-59
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:501:9-113
+	android:value
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:501:63-111
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:501:20-62
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:502:9-101
+	android:exported
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:502:74-98
+	android:name
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:502:18-73
+uses-sdk
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+MERGED from [amap-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\amap-libs-release.aar\7381df68fd33f05e91cbae5cd0b28017\AndroidManifest.xml:7:5-44
+MERGED from [amap-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\amap-libs-release.aar\7381df68fd33f05e91cbae5cd0b28017\AndroidManifest.xml:7:5-44
+MERGED from [aps-dhPush-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-dhPush-release.aar\0cea050baa9abbacfeff1a95656f8990\AndroidManifest.xml:7:5-44
+MERGED from [aps-dhPush-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-dhPush-release.aar\0cea050baa9abbacfeff1a95656f8990\AndroidManifest.xml:7:5-44
+MERGED from [aps-igexin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-igexin-release.aar\67355fe3d9b06bd9c8396111009f13b3\AndroidManifest.xml:7:5-44
+MERGED from [aps-igexin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-igexin-release.aar\67355fe3d9b06bd9c8396111009f13b3\AndroidManifest.xml:7:5-44
+MERGED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:7:5-44
+MERGED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:7:5-44
+MERGED from [aps-xiaomi-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-xiaomi-release.aar\0bc47ac5ef01284162968560486ce828\AndroidManifest.xml:7:5-44
+MERGED from [aps-xiaomi-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-xiaomi-release.aar\0bc47ac5ef01284162968560486ce828\AndroidManifest.xml:7:5-44
+MERGED from [Bluetooth-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\Bluetooth-release.aar\be48f4385c316427690103167a1ab585\AndroidManifest.xml:7:5-44
+MERGED from [Bluetooth-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\Bluetooth-release.aar\be48f4385c316427690103167a1ab585\AndroidManifest.xml:7:5-44
+MERGED from [contacts-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\contacts-release.aar\bd1d93a801dade4d688252ffb293ec50\AndroidManifest.xml:7:5-44
+MERGED from [contacts-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\contacts-release.aar\bd1d93a801dade4d688252ffb293ec50\AndroidManifest.xml:7:5-44
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:7:5-44
+MERGED from [fingerprint-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fingerprint-release.aar\7992337609ec958c58b43791c9bcb05e\AndroidManifest.xml:7:5-44
+MERGED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:7:5-44
+MERGED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:7:5-44
+MERGED from [geolocation-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-amap-release.aar\c0406e53f137957f3aeeea85628b4e01\AndroidManifest.xml:7:5-44
+MERGED from [geolocation-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-amap-release.aar\c0406e53f137957f3aeeea85628b4e01\AndroidManifest.xml:7:5-44
+MERGED from [geolocation-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-baidu-release.aar\4b3242e31f52aca72a696a43ff068ba6\AndroidManifest.xml:7:5-44
+MERGED from [geolocation-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\geolocation-baidu-release.aar\4b3242e31f52aca72a696a43ff068ba6\AndroidManifest.xml:7:5-44
+MERGED from [iBeacon-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\iBeacon-release.aar\ccfd4d313cd69ea73b9fade50e95b823\AndroidManifest.xml:7:5-44
+MERGED from [iBeacon-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\iBeacon-release.aar\ccfd4d313cd69ea73b9fade50e95b823\AndroidManifest.xml:7:5-44
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:7:5-44
+MERGED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:7:5-44
+MERGED from [map-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-amap-release.aar\2de7e15e526f39ef92c0d4ca7db1661a\AndroidManifest.xml:7:5-44
+MERGED from [map-amap-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-amap-release.aar\2de7e15e526f39ef92c0d4ca7db1661a\AndroidManifest.xml:7:5-44
+MERGED from [map-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-baidu-release.aar\a29cbfc19f5f4ebfa6480ff333a919b0\AndroidManifest.xml:7:5-44
+MERGED from [map-baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\map-baidu-release.aar\a29cbfc19f5f4ebfa6480ff333a919b0\AndroidManifest.xml:7:5-44
+MERGED from [media-livepusher-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-livepusher-release.aar\a04bbe125bb870dedfa36a1e28dd9131\AndroidManifest.xml:7:5-44
+MERGED from [media-livepusher-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-livepusher-release.aar\a04bbe125bb870dedfa36a1e28dd9131\AndroidManifest.xml:7:5-44
+MERGED from [media-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-release.aar\43ba40815e319e988bfb311a8db5511b\AndroidManifest.xml:7:5-44
+MERGED from [media-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\media-release.aar\43ba40815e319e988bfb311a8db5511b\AndroidManifest.xml:7:5-44
+MERGED from [messaging-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\messaging-release.aar\4fa43947931988daa4dfff861b20c26e\AndroidManifest.xml:7:5-44
+MERGED from [messaging-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\messaging-release.aar\4fa43947931988daa4dfff861b20c26e\AndroidManifest.xml:7:5-44
+MERGED from [oauth-miui-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-miui-release.aar\7f723f5a0c9856342e08bda8e8844fb3\AndroidManifest.xml:7:5-44
+MERGED from [oauth-miui-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-miui-release.aar\7f723f5a0c9856342e08bda8e8844fb3\AndroidManifest.xml:7:5-44
+MERGED from [oauth-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-qq-release.aar\2ec754a67a26bf1d08e460a1399ae54c\AndroidManifest.xml:7:5-44
+MERGED from [oauth-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-qq-release.aar\2ec754a67a26bf1d08e460a1399ae54c\AndroidManifest.xml:7:5-44
+MERGED from [oauth-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-sina-release.aar\156c24252a84c7368e4723408af0d709\AndroidManifest.xml:7:5-44
+MERGED from [oauth-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-sina-release.aar\156c24252a84c7368e4723408af0d709\AndroidManifest.xml:7:5-44
+MERGED from [oauth-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-weixin-release.aar\fa29deffa8aee2179a48a1b6979f4959\AndroidManifest.xml:7:5-44
+MERGED from [oauth-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\oauth-weixin-release.aar\fa29deffa8aee2179a48a1b6979f4959\AndroidManifest.xml:7:5-44
+MERGED from [payment-alipay-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-alipay-release.aar\4bd9e5a40ad47efeabc5cf97ac50048b\AndroidManifest.xml:7:5-44
+MERGED from [payment-alipay-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-alipay-release.aar\4bd9e5a40ad47efeabc5cf97ac50048b\AndroidManifest.xml:7:5-44
+MERGED from [payment-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-weixin-release.aar\7eb66c028d0cbe54d47cd18ebfadc9a8\AndroidManifest.xml:7:5-44
+MERGED from [payment-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\payment-weixin-release.aar\7eb66c028d0cbe54d47cd18ebfadc9a8\AndroidManifest.xml:7:5-44
+MERGED from [share-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-qq-release.aar\8b5dde11e5b875a57915f50c4ff3547a\AndroidManifest.xml:7:5-44
+MERGED from [share-qq-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-qq-release.aar\8b5dde11e5b875a57915f50c4ff3547a\AndroidManifest.xml:7:5-44
+MERGED from [share-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-sina-release.aar\fea77668ae3d6fbfdb9a605f9e1863b1\AndroidManifest.xml:7:5-44
+MERGED from [share-sina-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-sina-release.aar\fea77668ae3d6fbfdb9a605f9e1863b1\AndroidManifest.xml:7:5-44
+MERGED from [share-tencent-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2\AndroidManifest.xml:7:5-44
+MERGED from [share-tencent-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-tencent-release.aar\07b378eb1c9d490e371bc8b76f95b7f2\AndroidManifest.xml:7:5-44
+MERGED from [share-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-weixin-release.aar\a12ce6d8ac1ceab6c93942029543a7e5\AndroidManifest.xml:7:5-44
+MERGED from [share-weixin-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\share-weixin-release.aar\a12ce6d8ac1ceab6c93942029543a7e5\AndroidManifest.xml:7:5-44
+MERGED from [sina-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sina-libs-release.aar\5121530a48512cdd8c331528aa383773\AndroidManifest.xml:7:5-44
+MERGED from [sina-libs-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sina-libs-release.aar\5121530a48512cdd8c331528aa383773\AndroidManifest.xml:7:5-44
+MERGED from [speech_baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_baidu-release.aar\3092f159f68db300342af775b41bc391\AndroidManifest.xml:7:5-44
+MERGED from [speech_baidu-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_baidu-release.aar\3092f159f68db300342af775b41bc391\AndroidManifest.xml:7:5-44
+MERGED from [speech_ifly-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_ifly-release.aar\1a33649194bf9eb2ccb9f56df364b905\AndroidManifest.xml:7:5-44
+MERGED from [speech_ifly-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\speech_ifly-release.aar\1a33649194bf9eb2ccb9f56df364b905\AndroidManifest.xml:7:5-44
+MERGED from [sqlite-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sqlite-release.aar\854cb2aec1571252cd35189a89fb8456\AndroidManifest.xml:7:5-44
+MERGED from [sqlite-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\sqlite-release.aar\854cb2aec1571252cd35189a89fb8456\AndroidManifest.xml:7:5-44
+MERGED from [statistics-umeng-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\statistics-umeng-release.aar\3892eacb57ae3850164fb42ac78f71d0\AndroidManifest.xml:7:5-44
+MERGED from [statistics-umeng-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\statistics-umeng-release.aar\3892eacb57ae3850164fb42ac78f71d0\AndroidManifest.xml:7:5-44
+MERGED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:25:5-27:41
+MERGED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f480382cc635b85ba7dcbd7bd26b7c1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\7f480382cc635b85ba7dcbd7bd26b7c1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e19e84a52224e0c7d81e4e79a3e61467\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\e19e84a52224e0c7d81e4e79a3e61467\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:20:5-44
+MERGED from [com.alibaba.android:bindingx-core:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx-core-1.0.3.aar\7247b506f59ebb7968150791ab1abc4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alibaba.android:bindingx-core:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx-core-1.0.3.aar\7247b506f59ebb7968150791ab1abc4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fresco-1.13.0.aar\d78ed582e11f32db9daaf16cd66e9a1b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fresco-1.13.0.aar\d78ed582e11f32db9daaf16cd66e9a1b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-gif-1.13.0.aar\b6b370c8ec5233825412b7ec7f34bf1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-gif-1.13.0.aar\b6b370c8ec5233825412b7ec7f34bf1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\1fa47afcfd3137b9de0ed96ce0de6c02\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\1fa47afcfd3137b9de0ed96ce0de6c02\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\9cf1c5a1e772db7f8751b23d4e03eb4d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\9cf1c5a1e772db7f8751b23d4e03eb4d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f7469b3add2a0981cfa9c9c993d940cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f7469b3add2a0981cfa9c9c993d940cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c9374ed809fc988a919d861f2dd9e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0c9374ed809fc988a919d861f2dd9e45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a38b3107da6a9c6406ab55c5fd2ad67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a38b3107da6a9c6406ab55c5fd2ad67\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\202eaddb12bbd841e9373ca8a9072f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\202eaddb12bbd841e9373ca8a9072f41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\620df50c680b8c7ef1606bdb8ca71a46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\620df50c680b8c7ef1606bdb8ca71a46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2ea55bec8ad60cd99940ae8fba3fff9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f2ea55bec8ad60cd99940ae8fba3fff9\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-base-1.13.0.aar\be60bd6c4229937aa84e114d06ba8b47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-base-1.13.0.aar\be60bd6c4229937aa84e114d06ba8b47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.13.0.aar\f1c23b6240310af72c1ec215c690da16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\animated-drawable-1.13.0.aar\f1c23b6240310af72c1ec215c690da16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\drawee-1.13.0.aar\d4d3fd226cb9e5c5f17df005c58650ae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\drawee-1.13.0.aar\d4d3fd226cb9e5c5f17df005c58650ae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-1.13.0.aar\67d3aa127376aa661dddf2f7492ed197\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagefilters-1.13.0.aar\67d3aa127376aa661dddf2f7492ed197\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.13.0.aar\386ecb0b9cf5212ea1090f9a145e6ab3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.13.0.aar\386ecb0b9cf5212ea1090f9a145e6ab3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-1.13.0.aar\e2e2afc2c288b5a18d23522f5e13c364\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\nativeimagetranscoder-1.13.0.aar\e2e2afc2c288b5a18d23522f5e13c364\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.13.0.aar\91acc0ab34a1d62544910a29ee807f72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.13.0.aar\91acc0ab34a1d62544910a29ee807f72\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fbcore-1.13.0.aar\a56e7750f05432183ee7016342cc0ef9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.13.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\fbcore-1.13.0.aar\a56e7750f05432183ee7016342cc0ef9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ee37e24bd58fdc91b95397db02991426\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\ee37e24bd58fdc91b95397db02991426\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\617cdfe91629d6cc7b81ca769544d10b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\617cdfe91629d6cc7b81ca769544d10b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d7589ab42d96c9220b146cb3ddda561\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5d7589ab42d96c9220b146cb3ddda561\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca7dcccaf3a340de66c1ad17bbc9937d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\ca7dcccaf3a340de66c1ad17bbc9937d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f4f9fe3d8ca71f11f432b973fb75bf5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f4f9fe3d8ca71f11f432b973fb75bf5\AndroidManifest.xml:20:5-44
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		ADDED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+		INJECTED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml
+service#io.dcloud.feature.aps.ApsActionService
+ADDED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:10:9-12:39
+	android:exported
+		ADDED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [aps-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\aps-release.aar\e5e786b94c563144ae05df057267f66f\AndroidManifest.xml:11:13-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\test\uni-app\Android-SDK@1.9.9.66861_20190724\HBuilder\app\src\main\AndroidManifest.xml:2:1-506:12 reason: io.dcloud.feature requested WRITE_EXTERNAL_STORAGE
+activity#com.dmcbig.mediapicker.PickerActivity
+ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:10:9-14:63
+	android:windowSoftInputMode
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:14:13-60
+	android:configChanges
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:12:13-59
+	android:theme
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:13:13-55
+	android:name
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:11:13-65
+activity#com.dmcbig.mediapicker.PreviewActivity
+ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:15:9-19:63
+	android:windowSoftInputMode
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:19:13-60
+	android:configChanges
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:17:13-59
+	android:theme
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:18:13-55
+	android:name
+		ADDED from [gallery-dmcBig-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\gallery-dmcBig-release.aar\f48bf4d09c138b866dc1a9e9f3e7dd09\AndroidManifest.xml:16:13-66
+supports-screens
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:9:5-14:39
+	android:largeScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:14:9-36
+	android:normalScreens
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:12:9-37
+	android:resizeable
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:13:9-34
+	android:anyDensity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:10:9-34
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:19:5-90
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:19:22-87
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:21:5-91
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:21:22-88
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:22:5-88
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:22:22-85
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:23:5-85
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:23:22-82
+uses-permission#com.android.launcher2.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:24:5-86
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:24:22-83
+uses-permission#com.android.launcher3.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:25:5-86
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:25:22-83
+uses-permission#com.yulong.android.launcherL.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:26:5-93
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:26:22-90
+uses-permission#com.meizu.flyme.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:27:5-89
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:27:22-86
+uses-permission#com.bbk.launcher2.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:28:22-79
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:29:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:29:22-79
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:30:22-78
+uses-permission#com.qiku.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:31:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:31:22-79
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:32:5-92
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:32:22-89
+uses-permission#com.zte.mifavor.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:33:5-89
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:33:22-86
+uses-permission#com.lenovo.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:34:5-84
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:34:22-81
+uses-permission#com.google.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:35:5-92
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:35:22-89
+uses-permission#com.yulong.android.launcher3.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:36:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:36:22-79
+uses-permission#org.adw.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:37:22-78
+uses-permission#com.qihoo360.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:38:5-86
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:38:22-83
+uses-permission#com.lge.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:39:5-81
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:39:22-78
+uses-permission#net.qihoo.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:40:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:40:22-80
+uses-permission#org.adwfreak.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:41:5-86
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:41:22-83
+uses-permission#org.adw.launcher_donut.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:42:5-87
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:42:22-84
+uses-permission#com.huawei.launcher3.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:43:5-85
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:43:22-82
+uses-permission#com.fede.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:44:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:44:22-79
+uses-permission#com.sec.android.app.twlauncher.settings.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:45:5-93
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:45:22-90
+uses-permission#com.tencent.qqlauncher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:46:5-87
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:46:22-84
+uses-permission#com.huawei.launcher2.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:47:5-85
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:47:22-82
+uses-permission#com.ebproductions.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:48:5-99
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:48:22-96
+uses-permission#com.nd.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:49:22-85
+uses-permission#com.yulong.android.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:50:5-92
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:50:22-89
+uses-permission#com.android.mylauncher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:51:5-87
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:51:22-84
+uses-permission#com.ztemt.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:52:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:52:22-80
+uses-permission#cn.nubia.launcher.permission.READ_SETTINGS
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:53:5-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:53:22-79
+uses-permission#com.gionee.amisystem.permission.READ_SHORTCUT
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:54:5-85
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:54:22-82
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:56:5-83
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:56:22-80
+activity#io.dcloud.PandoraEntryActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:62:9-79:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:68:13-45
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:66:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:65:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:70:13-55
+	android:permission
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:67:13-89
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:64:13-92
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:69:13-47
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:63:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:h56131bcf
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:71:13-78:29
+service#io.dcloud.common.adapter.io.MiniServerService
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:81:9-83:40
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:82:13-73
+receiver#io.dcloud.common.adapter.io.PushReceiver
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:85:9-89:20
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:85:19-74
+intent-filter#action:name:dcloud.push.broswer
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:86:13-88:29
+action#dcloud.push.broswer
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:87:17-62
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:87:25-59
+activity#io.dcloud.imagepick.CustomGalleryActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:91:9-94:40
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:94:13-37
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:93:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:92:13-69
+activity#io.dcloud.feature.nativeObj.photoview.PhotoActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:95:9-98:58
+	android:noHistory
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:97:13-38
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:98:13-55
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:96:13-79
+activity#io.dcloud.appstream.StreamAppMainActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:99:9-120:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:104:13-49
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:103:13-44
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:107:13-73
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:102:13-36
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:101:13-82
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:106:13-70
+	android:taskAffinity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:105:13-41
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:100:13-69
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:108:13-110:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:streamapp+data:scheme:streamappmain
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:111:13-119:29
+activity#io.dcloud.WebAppActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:121:9-131:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:126:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:127:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:124:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:131:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:123:13-92
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:125:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:130:13-47
+	android:taskAffinity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:129:13-43
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:122:13-52
+service#io.dcloud.streamdownload.DownloadService
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:133:9-137:19
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:133:18-73
+intent-filter#action:name:com.qihoo.life.plugin.streamapp.ACTION_PUSH_TO_PLUGIN
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:134:13-136:29
+action#com.qihoo.life.plugin.streamapp.ACTION_PUSH_TO_PLUGIN
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:135:17-96
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:135:25-93
+service#io.dcloud.appstream.service.DaemonService
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:138:9-141:41
+	android:process
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:141:13-38
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:139:13-69
+service#io.dcloud.appstream.service.ProtectService
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:142:9-144:40
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:144:13-37
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:143:13-70
+service#io.dcloud.multiprocess.service.MultiProcessService
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:167:9-86
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:167:18-83
+activity#io.dcloud.multiprocess.activity.WebAppActivity1
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:169:9-180:58
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:177:13-49
+	android:process
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:176:13-61
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:174:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:175:13-44
+	android:hardwareAccelerated
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:172:13-47
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:180:13-55
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:171:13-82
+	android:icon
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:173:13-51
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:179:13-47
+	android:taskAffinity
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:178:13-44
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:170:13-75
+activity#io.dcloud.appstream.OpenStreamAppTransferActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:181:9-187:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:184:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:186:13-73
+	android:configChanges
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:183:13-82
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:185:13-70
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:182:13-77
+meta-data#MultiProcessCount
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:189:9-191:33
+	android:value
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:191:13-30
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:190:13-45
+activity#io.dcloud.ProcessMediator
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:193:9-199:75
+	android:label
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:197:13-45
+	android:excludeFromRecents
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:195:13-46
+	android:launchMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:198:13-43
+	android:exported
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:196:13-36
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:199:13-72
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:194:13-53
+activity#io.dcloud.WebviewActivity
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:200:9-205:20
+	android:screenOrientation
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:202:13-49
+	android:windowSoftInputMode
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:204:13-52
+	android:theme
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:203:13-51
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:201:13-53
+receiver#io.dcloud.common.adapter.io.DownloadReceiver
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:207:9-216:20
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:207:19-78
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:208:13-210:29
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:209:17-82
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:209:25-79
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:211:13-215:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:212:17-78
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:212:25-75
+meta-data#android.max_aspect
+ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:232:9-234:35
+	android:value
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:234:13-32
+	android:name
+		ADDED from [lib.5plus.base-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\lib.5plus.base-release.aar\3606d22c2b8b8c0b17e7d1699b8e1912\AndroidManifest.xml:233:13-46
+receiver#com.taobao.weex.WXGlobalEventReceiver
+ADDED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [uniapp-release.aar] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\uniapp-release.aar\fc2344ab8ce2fc6e935b68773048fe8c\AndroidManifest.xml:31:13-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\7243dc83594fb100ba48a48c16789057\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\f3f302845513c5d567ac3f85854a404f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8b1b1fc8a455a27a6a0c91ba0bdf8ba3\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b9becc0aa23cedb4223575784a23ff2d\AndroidManifest.xml:27:13-51
+service#com.alibaba.android.bindingx.plugin.weex.WXBindingXModuleService
+ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:10:9-18:19
+	android:exported
+		ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:11:13-92
+intent-filter#action:name:binding+action:name:bindingx+action:name:expressionBinding
+ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:13:13-17:29
+action#bindingx
+ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:14:17-51
+	android:name
+		ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:14:25-48
+action#binding
+ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:15:17-50
+	android:name
+		ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:15:25-47
+action#expressionBinding
+ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:16:17-60
+	android:name
+		ADDED from [com.alibaba.android:bindingx_weex_plugin:1.0.3] C:\Users\viewtex\.gradle\caches\transforms-1\files-1.1\bindingx_weex_plugin-1.0.3.aar\007e0527000f819ea45510fa50aefe8b\AndroidManifest.xml:16:25-57
